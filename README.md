@@ -1,3 +1,5 @@
 # AIDL-Orientation
 
-This library helps to provide phone orientation data using AIDL service of interval 8ms.
+Simple Aidl Application with Sensor.TYPE_ROTATION_VECTOR. 
+
+ The sensor should provide the data at an interval of 8ms.
